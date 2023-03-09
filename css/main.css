@@ -1,3 +1,18 @@
+:root {
+  --bs-success-rgb: 25,135,84;
+}
+.card-body {
+  background-color: #F4EED6;
+}
+
+hr {
+  width: 60%;
+  margin: auto;
+  border-width: 3px;
+  color: #642E1E;
+}
+
+
 .logo {
     width: 30%;
 }
@@ -30,3 +45,9 @@
     font-size: 1.2em;
     padding: 1em 0;
   }
+
+  .card {
+    padding: 0;
+  }
+
+  
