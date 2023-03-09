@@ -1,0 +1,32 @@
+.logo {
+    width: 30%;
+}
+
+.logo-reseau {
+    width: 5%;
+    min-width: 50px;
+    padding: .5em;
+    margin: 1em;
+}
+
+.bg-success {
+    --bs-bg-opacity: .2;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+  }
+
+  h1 {
+    color: #346F11;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 2em 0.5em;
+  }
+
+  h1,h2 {
+    text-transform: uppercase;
+  }
+
+  h2 {
+    font-size: 1.2em;
+    padding: 1em 0;
+  }
